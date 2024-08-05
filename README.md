@@ -12,7 +12,7 @@ we simulated the circuit design using the online software Tinkercad. The image b
 The hardware components required include Arduino Uno, a 16x2 LCD display, a 4x4 Matrix Keypad, and a Servo Motor.
 
 
-## Conclution
+## Disclaimer
 
 Please note that while this password-based door lock system is designed to provide security, the developers do not guarantee its absolute reliability. Use it at your own risk.
 
